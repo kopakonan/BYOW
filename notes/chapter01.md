@@ -13,5 +13,5 @@
 
 **3. Made an account on [github](https://github.com/kopakonan) and uploaded my first own directorie;**
 
-**4. Mardown syntax ->**
+**4. Markdown syntax ->**
 **[useful link](https://learnxinyminutes.com/docs/ru-ru/markdown-ru/#horizontal-rule)**

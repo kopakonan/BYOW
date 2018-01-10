@@ -4,8 +4,8 @@
 
 **1. Got to know a little bit more what does it mean:**
 + *http//: or https//:*
-+ *domen name*
-+ *domen zone*
++ *doman name*
++ *doman zone*
 + *URL*
 + *host*
 
